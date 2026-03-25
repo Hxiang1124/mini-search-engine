@@ -45,11 +45,15 @@ http://127.0.0.1:5000/search?q=python
 
 
 Modify the search keyword here
+
+
 <img width="279" height="145" alt="image" src="https://github.com/user-attachments/assets/1ea5ad7b-08c2-472f-a216-2f57563784d3" />
 
 
 
 Modify the search keyword in URL
+
+Eaxmple:
 
 http://127.0.0.1:5000/search?q=keyword
 
