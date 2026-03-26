@@ -53,7 +53,7 @@ Modify the search keyword here
 
 Modify the search keyword in URL
 
-Eaxmple:
+Example:
 
 http://127.0.0.1:5000/search?q=keyword
 
